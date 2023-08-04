@@ -83,7 +83,7 @@ body {
 	height: 100%;
 	width: 100%;
 	opacity: 0.5;
-	position: absolute;
+	position: fixed;
 	/* 偏移值皆設為 0，讓僞元素跟父元素一樣大小 */
 	top: 0;
 	bottom: 0;
